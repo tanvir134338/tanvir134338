@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./banner.png" alt="MD Tanvir Ahsan - Aspiring Web Developer Banner" width="100%">
   <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/bfe615f6-7ac4-4d54-9645-5705537a270f" />
 
 </p>
