@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="MD Tanvir Ahsan - Aspiring Web Developer Banner" width="100%">
+</p>
+
 # Hi there, I'm MD Tanvir Ahsan 👋
 
 ### Aspiring Web Developer | Learning React & Building Modern Web Applications 🚀
