@@ -38,6 +38,7 @@ I am a passionate web development learner from Bangladesh. I enjoy learning new 
 - CSS3
 - JavaScript
 - React
+- Tailwind CSS
 
 ### Tools & Technologies
 
@@ -62,7 +63,6 @@ I am currently learning and improving my knowledge in:
 
 In the future, I want to learn:
 
-- TypeScript
 - Next.js
 - Node.js
 - Express.js
