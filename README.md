@@ -1,11 +1,7 @@
 
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/bfe615f6-7ac4-4d54-9645-5705537a270f" alt="Tanvir GitHub Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm MD Tanvir Ahsan</h1>
 
-<h3 align="center">Full-Stack Web Developer | Next.js | React | TypeScript</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
   Building modern, responsive, and user-friendly web applications.
@@ -13,15 +9,16 @@
 
 <p align="center">
   <a href="https://tanvirahsan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=8B5CF6&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:tanvir134338@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/Contact%20Me-Get%20in%20Touch-16A34A?style=for-the-badge&logo=handshake&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=Contact%20Me&color=16A34A&style=for-the-badge&logo=handshake&logoColor=white" alt="Contact Me" />
   </a>
 </p>
+
 
 ---
 
