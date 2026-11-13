@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/bfe615f6-7ac4-4d54-9645-5705537a270f" alt="Tanvir GitHub Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm MD Tanvir Ahsan</h1>
 
 <h3 align="center">Full Stack Web Developer</h3>
@@ -9,16 +13,15 @@
 
 <p align="center">
   <a href="https://tanvirahsan.vercel.app/">
-    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=8B5CF6&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:tanvir134338@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="#connect-with-me">
-    <img src="https://img.shields.io/static/v1?label=&message=Contact%20Me&color=16A34A&style=for-the-badge&logo=handshake&logoColor=white" alt="Contact Me" />
+  <a href="#contact-me">
+    <img src="https://img.shields.io/badge/Contact%20Me-16A34A?style=for-the-badge&logo=handshake&logoColor=white" alt="Contact Me" />
   </a>
 </p>
-
 
 ---
 
@@ -32,7 +35,7 @@ I focus on building responsive frontend experiences and developing full-stack ap
 - 🌱 Exploring modern web technologies and backend development.
 - 💻 Working with Next.js, React, TypeScript, and Node.js.
 - 🛠️ Interested in REST APIs, authentication, and database design.
-- 🎯 My goal is to become a skilled and professional Full-Stack Developer.
+- 🎯 My goal is to become a skilled and professional Full Stack Developer.
 - 🤝 Open to collaboration, learning, and real-world development opportunities.
 - ⚡ I enjoy solving problems and learning through building projects.
 
@@ -43,19 +46,19 @@ I focus on building responsive frontend experiences and developing full-stack ap
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend Technologies" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode" alt="Development Tools" />
 </p>
 
 ### Additional Technologies
@@ -78,10 +81,10 @@ A full-stack studio booking platform that helps users discover creative spaces, 
 
 <p>
   <a href="https://studiospace-a-08.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="StudioSpace Live Demo" />
   </a>
   <a href="https://github.com/tanvir134338/studiospace-a-08">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="StudioSpace GitHub" />
   </a>
 </p>
 
@@ -93,10 +96,10 @@ A web application that helps users explore product prices and compare market rat
 
 <p>
   <a href="https://bazar-dor-a7-b14.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Bazar Dor Live Demo" />
   </a>
   <a href="https://github.com/tanvir134338/bazar-dor-a7-B14">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Bazar Dor GitHub" />
   </a>
 </p>
 
@@ -108,10 +111,10 @@ A fitness tracking application designed to help users explore workouts, discover
 
 <p>
   <a href="https://assignment-06-b14-fitlog.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="FitLog Live Demo" />
   </a>
   <a href="https://github.com/tanvir134338/assignment-06-b14-fitlog">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FitLog GitHub" />
   </a>
 </p>
 
@@ -123,10 +126,10 @@ A developer-focused application built to help developers explore technologies an
 
 <p>
   <a href="https://dev-stack-builder-2026.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" alt="Dev Stack Builder Live Demo" />
   </a>
   <a href="https://github.com/tanvir134338/dev-stack-builder-A05-b14">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dev Stack Builder GitHub" />
   </a>
 </p>
 
@@ -147,8 +150,8 @@ A developer-focused application built to help developers explore technologies an
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanvir134338&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanvir134338&theme=tokyonight" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanvir134338&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir134338&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -157,20 +160,19 @@ A developer-focused application built to help developers explore technologies an
 
 ---
 
+<a id="contact-me"></a>
+
 ## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://tanvirahsan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:tanvir134338@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/md-tanvir-ahsan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/tanvir134338">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
