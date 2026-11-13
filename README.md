@@ -5,20 +5,21 @@
 
 <h1 align="center">Hi 👋, I'm MD Tanvir Ahsan</h1>
 
-<h3 align="center">
-  Full-Stack Web Developer | Next.js | React | TypeScript
-</h3>
+<h3 align="center">Full-Stack Web Developer | Next.js | React | TypeScript</h3>
 
 <p align="center">
   Building modern, responsive, and user-friendly web applications.
 </p>
 
 <p align="center">
-  <a href="https://tanvirahsan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://tanvirahsan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:tanvir134338@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#connect-with-me">
+    <img src="https://img.shields.io/badge/Contact%20Me-Get%20in%20Touch-16A34A?style=for-the-badge&logo=handshake&logoColor=white" />
   </a>
 </p>
 
@@ -74,14 +75,7 @@ I focus on building responsive frontend experiences and developing full-stack ap
 
 ### 1. StudioSpace – Studio Booking Platform
 
-A full-stack studio booking platform that allows users to discover creative spaces, explore studio listings, and manage reservations through an intuitive interface.
-
-**Key Features:**
-- Studio discovery and listing management
-- Booking and reservation management
-- User authentication and Google OAuth
-- Reviews and ratings
-- Personalized dashboard
+A full-stack studio booking platform that helps users discover creative spaces, explore studio listings, and manage reservations through an intuitive interface.
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS, Express.js, MongoDB, Better Auth.
 
@@ -98,38 +92,46 @@ A full-stack studio booking platform that allows users to discover creative spac
 
 A web application that helps users explore product prices and compare market rates through an organized and user-friendly interface.
 
-**Key Features:**
-- Product price exploration
-- Category-based product browsing
-- Market price comparison
-- Price statistics and sorting
-- API integration
-
 **Technologies:** Next.js, TypeScript, Tailwind CSS, REST API.
+
+<p>
+  <a href="https://bazar-dor-a7-b14.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/tanvir134338/bazar-dor-a7-B14">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ### 3. FitLog – Fitness & Workout Tracking
 
 A fitness tracking application designed to help users explore workouts, discover fitness content, and manage their fitness plans.
 
-**Key Features:**
-- Workout discovery
-- Fitness content library
-- Responsive user interface
-- Organized workout experience
-
 **Technologies:** Next.js, TypeScript, Tailwind CSS.
+
+<p>
+  <a href="https://assignment-06-b14-fitlog.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/tanvir134338/assignment-06-b14-fitlog">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ### 4. Dev Stack Builder – Developer Tool
 
 A developer-focused application built to help developers explore technologies and create their ideal development stack through a clean interface.
 
-**Key Features:**
-- Technology exploration
-- Development stack selection
-- Clean and intuitive interface
-- Responsive design
-
 **Technologies:** React, TypeScript, Tailwind CSS, Vite.
+
+<p>
+  <a href="https://dev-stack-builder-2026.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/tanvir134338/dev-stack-builder-A05-b14">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -148,12 +150,12 @@ A developer-focused application built to help developers explore technologies an
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanvir134338&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=tanvir134338&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanvir134338&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanvir134338&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir134338&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=tanvir134338&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -161,20 +163,25 @@ A developer-focused application built to help developers explore technologies an
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://tanvirahsan.vercel.app/" target="_blank">
+  <a href="https://tanvirahsan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:tanvir134338@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tanvir134338" target="_blank">
+  <a href="https://www.linkedin.com/in/md-tanvir-ahsan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/tanvir134338">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-- 🌐 Portfolio: https://tanvirahsan.vercel.app/
-- 📧 Email: tanvir134338@gmail.com
-- 🐙 GitHub: https://github.com/tanvir134338
+- 🌐 **Portfolio:** [tanvirahsan.vercel.app](https://tanvirahsan.vercel.app/)
+- 📧 **Email:** [tanvir134338@gmail.com](mailto:tanvir134338@gmail.com)
+- 📱 **Phone:** [+8801935655955](tel:+8801935655955)
+- 💼 **LinkedIn:** [MD Tanvir Ahsan](https://www.linkedin.com/in/md-tanvir-ahsan/)
+- 🐙 **GitHub:** [tanvir134338](https://github.com/tanvir134338)
 
 ---
 
